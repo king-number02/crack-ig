@@ -17,7 +17,7 @@ $ pip install requests
 
 $ pip install futures
 
-$ git clone https://github.com/Aseprizz/Crack-IG
+$ git clone https://github.com/king-number02/crack-ig
 
 $ cd Crack-IG
 
